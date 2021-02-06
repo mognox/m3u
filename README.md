@@ -1,1 +1,2 @@
 # m3u
+CLI program that adds files to an .m3u file for use in emulators (PSX, etc.).
